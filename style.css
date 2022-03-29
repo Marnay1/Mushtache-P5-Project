@@ -1,0 +1,9 @@
+canvas{
+    animation-name: animation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes animation{
+    from{box-shadow: 1px 1px 40px lightgreen;}
+    to{box-shadow: 1px 1px 40px lightpink;}
+}
