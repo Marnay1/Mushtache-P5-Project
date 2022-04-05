@@ -7,3 +7,6 @@ canvas{
     from{box-shadow: 1px 1px 40px lightgreen;}
     to{box-shadow: 1px 1px 40px lightpink;}
 }
+body{
+    background-size: cover;
+}
